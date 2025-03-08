@@ -1,3 +1,5 @@
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-donate-yellow)](https://www.buymeacoffee.com/andriansandi)
+
 # Hashrate Server for ccminer
 
 A lightweight web server built with Golang to expose `ccminer` hashrate data via a JSON API.
@@ -75,6 +77,6 @@ sudo systemctl status hashrate_server
 ## Maintainer
 Sandi Andrian [andrian.sandi@gmail.com](mailto:andrian.sandi@gmail.com)
 
-## Support This Project
-If you find this project useful, consider supporting me:
-- ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/andriansandi)
+<a href="https://www.buymeacoffee.com/andriansandi" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30">
+</a>
