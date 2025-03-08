@@ -74,3 +74,7 @@ sudo systemctl status hashrate_server
 
 ## Maintainer
 Sandi Andrian [andrian.sandi@gmail.com](mailto:andrian.sandi@gmail.com)
+
+## Support This Project
+If you find this project useful, consider supporting me:
+- ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/andriansandi)
