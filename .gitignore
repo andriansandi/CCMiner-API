@@ -1,0 +1,40 @@
+# Direktori Go modules
+go.mod
+go.sum
+
+# Direktori build/output
+/bin/
+/obj/
+/out/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.o
+*.a
+
+# Cache Go dan modul yang diunduh
+/pkg/
+/vendor/
+*.log
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.DS_Store
+*.tmp
+*.bak
+*~
+
+# Debugging
+trace.out
+heap.out
+cpu.out
+
+# Environment files
+.env
+.env.local
